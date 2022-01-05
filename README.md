@@ -4,6 +4,6 @@
 
 💻 Attualmente lavoro da remoto per l'azienda Isegno S.r.l.
 
-🌍 Se vuoi qualche informazione in più su di me, visita pure il mio portfolio https://alessandromondellidev.it
+🌍 Se vuoi qualche informazione in più su di me, visita il mio portfolio https://alessandromondellidev.it
 
 📬 Per qualunque cosa, inviami una mail all'indirizzo alessandromondellidev@gmail.com
