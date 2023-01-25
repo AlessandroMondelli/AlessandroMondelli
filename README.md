@@ -1,6 +1,6 @@
 # 👋🏻 Hi there, I'm @AlessandroMondelli
 
- 👨🏻‍💻  A 24 years old Web Developer<br><br>💻  Working as IT & Web Developer at Isegno S.r.l.<br><br>📖  Learning Node.js to become a JavaScript Full Stack Dev
+ 👨🏻‍💻  A 24 years old Web Developer<br><br> 📍 Based in Italy<br><br> 💻  Working as IT & Web Developer at Isegno S.r.l.<br><br>📖  Learning Node.js to become a JavaScript Full Stack Dev
 
 <div>
 <h3 align="left">🌍 Find me on:</h3>
