@@ -30,5 +30,5 @@
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandromondelli&show_icons=true&locale=en" alt="alessandromondelli" /></p>
 
- <div>![](https://komarev.com/ghpvc/?username=AlessandroMondelli&color=blue&style=flat-square)</div>
+ ![](https://komarev.com/ghpvc/?username=AlessandroMondelli&color=blue&style=flat-square)
 </div>
